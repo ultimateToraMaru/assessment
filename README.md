@@ -1,2 +1,2 @@
 # assessment
-あなたのいいところ診断ゲーム
+ultimateToraMaruのあなたのいいところ診断ゲーム
